@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on **[Practice Python programs](https://github.com/Akesh-28/Akesh-28_works)**
 - 🌱 I’m currently learning **Python | Web Development | ML**
 - 👯 I’m looking to collaborate on **Beginner open source projects**
-- 📫 How to reach me **akash000007@gmail.com**
+- 📫 How to reach me **h.akash000007@gmail.com**
 
 <!-- Connect With Me -->
 <h3 align="left">Connect with me:</h3>
