@@ -19,10 +19,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/akesh-h-6285a359/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         height="35" width="35"/>
   </a>
+
   <a href="https://www.leetcode.com/akesh-h" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+         height="35" width="35"/>
   </a>
 </p>
 
@@ -35,13 +38,21 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akesh-28&show_icons=true&locale=en&layout=compact" alt="">
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=Akesh-28&show_icons=true&locale=en&layout=compact" 
+       alt="">
+</p>
+
+<br><br><br>
+
+<p>
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=Akesh-28&show_icons=true&locale=en" 
+       alt="">
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akesh-28&show_icons=true&locale=en" alt="">
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akesh-28" alt="">
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Akesh-28" 
+       alt="">
 </p>
